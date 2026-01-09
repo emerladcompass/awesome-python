@@ -731,7 +731,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [WinPython](https://winpython.github.io/) - Portable development environment for Windows 7/8.
 
 ## Miscellaneous
-- [OSEF Framework](https://github.com/emerladcompass/OSEF-Framework) - Operational Stability Envelope Framework for real-time aviation safety.
+- [OSEF](https://github.com/emerladcompass/OSEF-Framework) - Operational Stability Envelope Framework for real-time aviation safety.
 - [blinker](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system.
 *Useful libraries or tools that don't fit in the categories above.*
 
